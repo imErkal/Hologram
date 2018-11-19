@@ -1,0 +1,7 @@
+name: HologramYT
+version: 0.1
+main: ro.imerkal.Hologram.Main
+author: ImErkal_
+commands:
+    createholo:
+        description: Create a hologram.
